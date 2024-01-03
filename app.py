@@ -1,3 +1,6 @@
+pip install requests
+pip install fpdf
+pip install flask
 import json
 import requests
 from fpdf import FPDF
